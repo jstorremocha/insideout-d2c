@@ -22,6 +22,8 @@
         "slide-2": {
           "type": "image",
           "settings": {
+            "image": "shopify:\/\/shop_images\/KingsX_ThreeSidesOfOne_0822_2160-720.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/KingsX_ThreeSidesOfOne_0822_750-1100.jpg",
             "show_overlay": true,
             "overlay_opacity": 28,
             "text_color": "#ffffff",

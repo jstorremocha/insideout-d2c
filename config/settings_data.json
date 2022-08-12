@@ -60,7 +60,7 @@
     "social_snapchat": "",
     "social_fancy": "",
     "favicon": "shopify:\/\/shop_images\/cm_logo.png",
-    "checkout_logo_image": "shopify:\/\/shop_images\/cm_logo.png",
+    "checkout_logo_image": "shopify:\/\/shop_images\/IOM_Logo.jpg",
     "checkout_logo_position": "left",
     "checkout_logo_size": "large",
     "checkout_body_background_image": "",
@@ -111,7 +111,8 @@
         ],
         "settings": {
           "enable_sticky_header": true,
-          "logo_max_width": 90,
+          "logo": "shopify:\/\/shop_images\/insideout_logo_transp.png",
+          "logo_max_width": 190,
           "mobile_logo_max_width": 50,
           "show_locale_selector": true,
           "show_currency_selector": true,

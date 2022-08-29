@@ -143,14 +143,14 @@
             "type": "text",
             "settings": {
               "title": "",
-              "content": "<p><a href=\"\/pages\/terms-and-service\" title=\"Terms and service\">Terms and service<\/a><\/p><p><a href=\"\/pages\/privacy-statement\" title=\"Privacy statement\">Privacy statement<\/a><\/p><p><a href=\"\/pages\/return-policy\" title=\"Return policy\">Return policy<\/a><\/p>"
+              "content": "<p><a href=\"\/pages\/terms-and-service\" title=\"Terms and Service\">Terms and Service<\/a><\/p><p><a href=\"\/pages\/privacy-statement\" title=\"Privacy statement\">Privacy Statement<\/a><\/p><p><a href=\"\/pages\/return-policy\" title=\"Return Policy\">Return Policy<\/a><\/p>"
             }
           },
           "footer-0": {
             "type": "text",
             "settings": {
               "title": "",
-              "content": "<p><a href=\"\/pages\/imprint\" title=\"Imprint\">Imprint<\/a><\/p><p><a href=\"\/pages\/payment-and-shipping\" title=\"Payment and shipping\">Payment and shipping<\/a><\/p>"
+              "content": "<p><a href=\"\/pages\/imprint\" title=\"Imprint\">Imprint<\/a><\/p><p><a href=\"\/pages\/payment-and-shipping\" title=\"Payment and Shipping\">Payment and Shipping<\/a><\/p>"
             }
           },
           "90870819-c265-4cc2-94b0-5e40ad2810f7": {

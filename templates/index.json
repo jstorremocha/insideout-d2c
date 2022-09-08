@@ -81,14 +81,7 @@
         "collection-2": {
           "type": "collection",
           "settings": {
-            "collection": "angelus-apatrida",
-            "link": ""
-          }
-        },
-        "collection-3": {
-          "type": "collection",
-          "settings": {
-            "collection": "at-the-gates",
+            "collection": "bent-knee",
             "link": ""
           }
         },
@@ -123,7 +116,6 @@
       },
       "block_order": [
         "collection-2",
-        "collection-3",
         "collection-5",
         "collection-4",
         "collection-6",

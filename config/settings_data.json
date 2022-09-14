@@ -111,8 +111,8 @@
         ],
         "settings": {
           "enable_sticky_header": true,
-          "logo": "shopify:\/\/shop_images\/insideout_logo_transp.png",
-          "logo_max_width": 190,
+          "logo": "shopify:\/\/shop_images\/IO_logo_transp.png",
+          "logo_max_width": 230,
           "mobile_logo_max_width": 50,
           "show_locale_selector": true,
           "show_currency_selector": true,

@@ -64,6 +64,12 @@
           "settings": {
             "content": "<p>Episode: {{ product.metafields.sme.episode.value }}<\/p>"
           }
+        },
+        "caae8b81-4155-4df7-94b3-d971bcc57458": {
+          "type": "text",
+          "settings": {
+            "content": "<p>{{ product.metafields.sme.additional_information.value }}<\/p>"
+          }
         }
       },
       "block_order": [
@@ -75,7 +81,8 @@
         "abfdae60-cfb6-47c4-9892-9c6d5db777f5",
         "9f8f8e49-899d-4ed8-acc0-5059e6d33878",
         "3e6f20d1-0dd0-492e-842a-879b7ff34b9b",
-        "2e75b2af-c1ad-445e-9263-9bb1a032d880"
+        "2e75b2af-c1ad-445e-9263-9bb1a032d880",
+        "caae8b81-4155-4df7-94b3-d971bcc57458"
       ],
       "settings": {
         "image_size": "small",

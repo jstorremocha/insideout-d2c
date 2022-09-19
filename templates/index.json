@@ -93,7 +93,7 @@
             "image": "shopify:\/\/shop_images\/DreamTheater_OldBridgeNewJersey_0922_2160-720.jpg",
             "mobile_image": "shopify:\/\/shop_images\/DreamTheater_OldBridgeNewJersey_0922_1100-750.jpg",
             "show_overlay": false,
-            "overlay_opacity": 30,
+            "overlay_opacity": 0,
             "text_color": "#ffffff",
             "title": "",
             "content": "",

@@ -69,13 +69,31 @@
             "button_text": "",
             "link": ""
           }
+        },
+        "601d4deb-0dca-409e-a918-d9d0ba765ec4": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/SteveHackett_GenesisLiveRe_SecondsOut_0822_2160-720.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/SteveHackett_GenesisLiveRe_SecondsOut_0822_750-1100.jpg",
+            "show_overlay": false,
+            "overlay_opacity": 30,
+            "text_color": "#ffffff",
+            "title": "",
+            "content": "",
+            "content_position": "middle_center",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "button_text": "",
+            "link": ""
+          }
         }
       },
       "block_order": [
         "slide-1",
         "slide-2",
         "cbfc1a47-a590-49a8-9af0-2f603a75e33e",
-        "2b984af3-11de-4c32-a94c-ea0ed859080c"
+        "2b984af3-11de-4c32-a94c-ea0ed859080c",
+        "601d4deb-0dca-409e-a918-d9d0ba765ec4"
       ],
       "settings": {
         "edge_to_edge": false,

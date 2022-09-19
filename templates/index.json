@@ -3,22 +3,6 @@
     "slideshow": {
       "type": "slideshow",
       "blocks": {
-        "slide-1": {
-          "type": "image",
-          "disabled": true,
-          "settings": {
-            "show_overlay": true,
-            "overlay_opacity": 69,
-            "text_color": "#ffffff",
-            "title": "New ATG Tour",
-            "content": "Summer 2022 - book your tickets already!",
-            "content_position": "bottom_center",
-            "button_background": "#ffffff",
-            "button_text_color": "#000000",
-            "button_text": "Tickets",
-            "link": "https:\/\/cmdistro-de.myshopify.com\/collections\/vendors?q=Ignite"
-          }
-        },
         "slide-2": {
           "type": "image",
           "settings": {
@@ -53,11 +37,11 @@
             "link": ""
           }
         },
-        "2b984af3-11de-4c32-a94c-ea0ed859080c": {
+        "8b2c4303-6777-4245-b6ed-8876ca20fba8": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Queensryche_DigitalNoiseAlliance_0822_2160-720.jpg",
-            "mobile_image": "shopify:\/\/shop_images\/Queensryche_DigitalNoiseAlliance_0822_750-1100.jpg",
+            "image": "shopify:\/\/shop_images\/DreamTheater_OldBridgeNewJersey_0922_2160-720.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/DreamTheater_OldBridgeNewJersey_0922_1100-750.jpg",
             "show_overlay": false,
             "overlay_opacity": 0,
             "text_color": "#ffffff",
@@ -86,37 +70,18 @@
             "button_text": "",
             "link": ""
           }
-        },
-        "8b2c4303-6777-4245-b6ed-8876ca20fba8": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/DreamTheater_OldBridgeNewJersey_0922_2160-720.jpg",
-            "mobile_image": "shopify:\/\/shop_images\/DreamTheater_OldBridgeNewJersey_0922_1100-750.jpg",
-            "show_overlay": false,
-            "overlay_opacity": 0,
-            "text_color": "#ffffff",
-            "title": "",
-            "content": "",
-            "content_position": "middle_center",
-            "button_background": "#ffffff",
-            "button_text_color": "#000000",
-            "button_text": "",
-            "link": ""
-          }
         }
       },
       "block_order": [
-        "slide-1",
         "slide-2",
         "cbfc1a47-a590-49a8-9af0-2f603a75e33e",
-        "2b984af3-11de-4c32-a94c-ea0ed859080c",
-        "601d4deb-0dca-409e-a918-d9d0ba765ec4",
-        "8b2c4303-6777-4245-b6ed-8876ca20fba8"
+        "8b2c4303-6777-4245-b6ed-8876ca20fba8",
+        "601d4deb-0dca-409e-a918-d9d0ba765ec4"
       ],
       "settings": {
-        "edge_to_edge": true,
+        "edge_to_edge": false,
         "section_size": "small",
-        "carousel_effect": "slide",
+        "carousel_effect": "fade",
         "autoplay": true,
         "cycle_speed": 5
       }

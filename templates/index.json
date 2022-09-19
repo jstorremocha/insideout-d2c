@@ -114,7 +114,7 @@
         "8b2c4303-6777-4245-b6ed-8876ca20fba8"
       ],
       "settings": {
-        "edge_to_edge": false,
+        "edge_to_edge": true,
         "section_size": "small",
         "carousel_effect": "slide",
         "autoplay": true,

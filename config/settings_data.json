@@ -304,7 +304,7 @@
       },
       "12729028486393027794": {
         "type": "shopify:\/\/apps\/lyrian-coming-soon-page\/blocks\/app-embed-body\/eb082e11-598f-4a9a-9c18-68b5cf2ac578",
-        "disabled": true,
+        "disabled": false,
         "settings": {
           "cs_title": "",
           "cs_title_size": "50px",

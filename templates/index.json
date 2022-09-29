@@ -91,7 +91,7 @@
       "settings": {
         "collection": "pre-order",
         "title": "Pre Order",
-        "products_count": 5,
+        "products_count": 8,
         "layout": "vertical",
         "stack_products": true,
         "show_quick_buy": true,
@@ -104,8 +104,8 @@
       "settings": {
         "collection": "new-releases",
         "title": "New Releases",
-        "products_count": 5,
-        "layout": "vertical",
+        "products_count": 12,
+        "layout": "collage",
         "stack_products": true,
         "show_quick_buy": true,
         "link_title": "View all",

@@ -119,52 +119,20 @@
         "collection-2": {
           "type": "collection",
           "settings": {
-            "collection": "bent-knee",
-            "link": ""
-          }
-        },
-        "collection-5": {
-          "type": "collection",
-          "settings": {
-            "collection": "dark-tranquillity",
-            "link": ""
-          }
-        },
-        "collection-4": {
-          "type": "collection",
-          "settings": {
-            "collection": "insomnium",
-            "link": ""
-          }
-        },
-        "collection-6": {
-          "type": "collection",
-          "settings": {
-            "collection": "napalm-death",
-            "link": ""
-          }
-        },
-        "collection-1": {
-          "type": "collection",
-          "settings": {
-            "collection": "omnium-gatherum",
+            "collection": "hans-zimmer-live",
             "link": ""
           }
         }
       },
       "block_order": [
-        "collection-2",
-        "collection-5",
-        "collection-4",
-        "collection-6",
-        "collection-1"
+        "collection-2"
       ],
       "settings": {
-        "title": "Featured Artists",
+        "title": "Also On Preorder",
         "link_title": "View all",
         "link": "",
         "round_images": false,
-        "show_collection_title": true
+        "show_collection_title": false
       }
     },
     "newsletter": {

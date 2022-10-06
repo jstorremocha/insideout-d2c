@@ -114,12 +114,12 @@
     },
     "collection-list": {
       "type": "collection-list",
-      "disabled": true,
       "blocks": {
         "collection-2": {
           "type": "collection",
           "settings": {
             "collection": "hans-zimmer-live",
+            "image": "shopify:\/\/shop_images\/Gatefold_open_center_2709.jpg",
             "link": ""
           }
         }

@@ -146,11 +146,11 @@
         "collection-2"
       ],
       "settings": {
-        "title": "Also On Preorder",
+        "title": "Specials",
         "link_title": "View all",
         "link": "",
         "round_images": false,
-        "show_collection_title": false
+        "show_collection_title": true
       }
     },
     "newsletter": {

@@ -140,10 +140,18 @@
             "image": "shopify:\/\/shop_images\/Gatefold_open_center_2709.jpg",
             "link": ""
           }
+        },
+        "62dc3c3c-ebcd-48f0-b42f-7605fece1f5a": {
+          "type": "collection",
+          "settings": {
+            "collection": "two-steps-from-hell",
+            "link": "shopify:\/\/collections\/two-steps-from-hell"
+          }
         }
       },
       "block_order": [
-        "collection-2"
+        "collection-2",
+        "62dc3c3c-ebcd-48f0-b42f-7605fece1f5a"
       ],
       "settings": {
         "title": "Specials",

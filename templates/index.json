@@ -87,6 +87,23 @@
             "button_text": "",
             "link": "https:\/\/www.insideoutshop.de\/collections\/vendors?q=Steve+Hackett&sort_by=created-descending"
           }
+        },
+        "2d4cd6df-bb52-4a2e-a3b8-008d13571913": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Riverside_IDEntity_1022_2160-720.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/Riverside_IDEntity_1022_2160-720.jpg",
+            "show_overlay": false,
+            "overlay_opacity": 30,
+            "text_color": "#ffffff",
+            "title": "",
+            "content": "",
+            "content_position": "middle_center",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "button_text": "",
+            "link": "https:\/\/www.insideoutshop.de\/collections\/vendors?q=Riverside&sort_by=created-descending"
+          }
         }
       },
       "block_order": [
@@ -94,7 +111,8 @@
         "slide-2",
         "cbfc1a47-a590-49a8-9af0-2f603a75e33e",
         "8b2c4303-6777-4245-b6ed-8876ca20fba8",
-        "601d4deb-0dca-409e-a918-d9d0ba765ec4"
+        "601d4deb-0dca-409e-a918-d9d0ba765ec4",
+        "2d4cd6df-bb52-4a2e-a3b8-008d13571913"
       ],
       "settings": {
         "edge_to_edge": false,

@@ -140,8 +140,8 @@
       "settings": {
         "collection": "new-releases",
         "title": "New Releases",
-        "products_count": 12,
-        "layout": "collage",
+        "products_count": 18,
+        "layout": "horizontal",
         "stack_products": true,
         "show_quick_buy": true,
         "link_title": "View all",

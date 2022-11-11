@@ -57,8 +57,8 @@
         "cbfc1a47-a590-49a8-9af0-2f603a75e33e": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/DevinTownsend_Lightwork_0822_2160-720.jpg",
-            "mobile_image": "shopify:\/\/shop_images\/DevinTownsend_Lightwork_0822_750-1100.jpg",
+            "image": "shopify:\/\/shop_images\/eMolecule_TheArchitect_1122_2160-720.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/eMolecule_TheArchitect_1122_750-1100.jpg",
             "show_overlay": true,
             "overlay_opacity": 0,
             "text_color": "#ffbd00",
@@ -68,14 +68,14 @@
             "button_background": "#ffffff",
             "button_text_color": "#000000",
             "button_text": "",
-            "link": "https:\/\/www.insideoutshop.de\/collections\/vendors?q=Devin+Townsend&sort_by=created-descending"
+            "link": "https:\/\/www.insideoutshop.de\/collections\/vendors?q=eMolecule&sort_by=created-descending"
           }
         },
         "8b2c4303-6777-4245-b6ed-8876ca20fba8": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/DreamTheater_OldBridgeNewJersey_0922_2160-720.jpg",
-            "mobile_image": "shopify:\/\/shop_images\/DreamTheater_OldBridgeNewJersey_0922_1100-750.jpg",
+            "image": "shopify:\/\/shop_images\/DreamTheater_LiveAtMadisonSquareGarden_1122_2160-720.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/DreamTheater_LiveAtMadisonSquareGarden_1122_750-1100.jpg",
             "show_overlay": false,
             "overlay_opacity": 0,
             "text_color": "#ffffff",

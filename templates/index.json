@@ -91,8 +91,8 @@
         "8b2c4303-6777-4245-b6ed-8876ca20fba8": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/DreamTheater_LiveAtMadisonSquareGarden_1122_2160-720.jpg",
-            "mobile_image": "shopify:\/\/shop_images\/DreamTheater_LiveAtMadisonSquareGarden_1122_750-1100.jpg",
+            "image": "shopify:\/\/shop_images\/Transatlantic_TheFinalFlight_1222_2160-720.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/Transatlantic_TheFinalFlight_1222_750-1100.jpg",
             "show_overlay": false,
             "overlay_opacity": 0,
             "text_color": "#ffffff",
@@ -102,7 +102,7 @@
             "button_background": "#ffffff",
             "button_text_color": "#000000",
             "button_text": "",
-            "link": "https:\/\/www.insideoutshop.de\/collections\/vendors?q=Dream+Theater&sort_by=created-descending"
+            "link": "https:\/\/www.insideoutshop.de\/collections\/vendors?q=Transatlantic&sort_by=created-descending"
           }
         }
       },

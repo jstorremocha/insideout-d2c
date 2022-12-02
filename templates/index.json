@@ -57,8 +57,8 @@
         "slide-2": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/HansZimmer_Live_1022_2160-720.jpg",
-            "mobile_image": "shopify:\/\/shop_images\/HansZimmer_Live_1022_750-1100.jpg",
+            "image": "shopify:\/\/shop_images\/TheFlowerKings_AdamEve_1222_2160-720.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/TheFlowerKings_AdamEve_1222_750-1100.jpg",
             "show_overlay": true,
             "overlay_opacity": 0,
             "text_color": "#ffffff",
@@ -68,7 +68,7 @@
             "button_background": "#ffffff",
             "button_text_color": "#000000",
             "button_text": "",
-            "link": "shopify:\/\/collections\/hans-zimmer-live"
+            "link": "https:\/\/www.insideoutshop.de\/collections\/vendors?q=The+Flower+Kings&sort_by=created-descending"
           }
         },
         "cbfc1a47-a590-49a8-9af0-2f603a75e33e": {

@@ -165,20 +165,11 @@
             "collection": "two-steps-from-hell",
             "link": ""
           }
-        },
-        "92e62f63-3c85-49c8-bbbf-aec52933c560": {
-          "type": "collection",
-          "settings": {
-            "collection": "",
-            "image": "shopify:\/\/shop_images\/logo.png",
-            "link": "https:\/\/www.insideoutshop.de\/collections\/tash-sultana"
-          }
         }
       },
       "block_order": [
         "collection-2",
-        "62dc3c3c-ebcd-48f0-b42f-7605fece1f5a",
-        "92e62f63-3c85-49c8-bbbf-aec52933c560"
+        "62dc3c3c-ebcd-48f0-b42f-7605fece1f5a"
       ],
       "settings": {
         "title": "Specials",

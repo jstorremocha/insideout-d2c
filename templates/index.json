@@ -175,7 +175,7 @@
         "title": "Specials",
         "link_title": "View all",
         "link": "",
-        "round_images": false,
+        "round_images": true,
         "show_collection_title": true
       }
     },

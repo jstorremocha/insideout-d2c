@@ -1,5 +1,15 @@
 {
   "sections": {
+    "d455e7fc-a136-4680-9463-5503d5126216": {
+      "type": "rich-text",
+      "settings": {
+        "text_width": "wide",
+        "title": "Happy Holidays!",
+        "content": "<p>We are going on <strong>Christmas break <\/strong><em><strong>until January 02<\/strong><\/em>. You can still order as usual, but there will be delays in your shipment.<br\/><em><strong>We would like to thank you for a fantastic 2022, wish you happy holidays and a good start for 2023!<\/strong><\/em><\/p>",
+        "button_text": "Our products",
+        "button_link": "shopify:\/\/collections\/all"
+      }
+    },
     "slideshow": {
       "type": "slideshow",
       "blocks": {
@@ -190,6 +200,7 @@
     }
   },
   "order": [
+    "d455e7fc-a136-4680-9463-5503d5126216",
     "slideshow",
     "featured-collection",
     "featured-products",

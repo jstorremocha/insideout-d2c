@@ -102,8 +102,8 @@
         "601d4deb-0dca-409e-a918-d9d0ba765ec4": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/TheTangent_PyramidsStarsOther_1122_2160-720.jpg",
-            "mobile_image": "shopify:\/\/shop_images\/TheTangent_PyramidsStarsOther_1122_750-1100.jpg",
+            "image": "shopify:\/\/shop_images\/EinarSolberg_16_0223_2160-720.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/EinarSolberg_16_0223_750-1100.jpg",
             "show_overlay": false,
             "overlay_opacity": 0,
             "text_color": "#ffffff",
@@ -113,7 +113,7 @@
             "button_background": "#ffffff",
             "button_text_color": "#000000",
             "button_text": "",
-            "link": "https:\/\/www.insideoutshop.de\/collections\/vendors?q=The+Tangent&sort_by=created-descending"
+            "link": "https:\/\/www.insideoutshop.de\/collections\/vendors?q=Einar+Solberg&sort_by=created-descending"
           }
         }
       },

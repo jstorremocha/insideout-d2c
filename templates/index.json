@@ -68,8 +68,8 @@
         "slide-2": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/TheFlowerKings_AdamEve_1222_2160-720.jpg",
-            "mobile_image": "shopify:\/\/shop_images\/TheFlowerKings_AdamEve_1222_750-1100.jpg",
+            "image": "shopify:\/\/shop_images\/TheFlowerKings_ParadoxHotel_0223_2160-720.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/TheFlowerKings_ParadoxHotel_0223_750-1100.jpg",
             "show_overlay": true,
             "overlay_opacity": 0,
             "text_color": "#ffffff",

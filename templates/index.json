@@ -115,6 +115,23 @@
             "button_text": "",
             "link": "https:\/\/www.insideoutshop.de\/collections\/vendors?q=Transatlantic&sort_by=created-descending"
           }
+        },
+        "b65dad66-9876-4ff9-ba5b-0d4024be395e": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/SteveRothery_The-GhostsOfPripyat_0223_2160-720.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/SteveRothery_The-GhostsOfPripyat_0223_750-1100.jpg",
+            "show_overlay": false,
+            "overlay_opacity": 30,
+            "text_color": "#ffffff",
+            "title": "",
+            "content": "",
+            "content_position": "middle_center",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "button_text": "",
+            "link": "https:\/\/www.insideoutshop.de\/products\/steve-rothery-the-ghosts-of-pripyat-re-issue-2023-ltd-gatefold-transp-light-blue-2lp"
+          }
         }
       },
       "block_order": [
@@ -123,7 +140,8 @@
         "2d4cd6df-bb52-4a2e-a3b8-008d13571913",
         "851ca830-e1e2-4566-96bc-028a6ec66f7e",
         "cbfc1a47-a590-49a8-9af0-2f603a75e33e",
-        "8b2c4303-6777-4245-b6ed-8876ca20fba8"
+        "8b2c4303-6777-4245-b6ed-8876ca20fba8",
+        "b65dad66-9876-4ff9-ba5b-0d4024be395e"
       ],
       "settings": {
         "edge_to_edge": false,

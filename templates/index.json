@@ -14,6 +14,40 @@
     "slideshow": {
       "type": "slideshow",
       "blocks": {
+        "601d4deb-0dca-409e-a918-d9d0ba765ec4": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/EinarSolberg_16_0223_2160-720.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/EinarSolberg_16_0223_750-1100.jpg",
+            "show_overlay": false,
+            "overlay_opacity": 0,
+            "text_color": "#ffffff",
+            "title": "",
+            "content": "",
+            "content_position": "middle_center",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "button_text": "",
+            "link": "https:\/\/www.insideoutshop.de\/collections\/vendors?q=Einar+Solberg&sort_by=created-descending"
+          }
+        },
+        "slide-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/TheFlowerKings_ParadoxHotel_0223_2160-720.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/TheFlowerKings_ParadoxHotel_0223_750-1100.jpg",
+            "show_overlay": true,
+            "overlay_opacity": 0,
+            "text_color": "#ffffff",
+            "title": "",
+            "content": "",
+            "content_position": "middle_center",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "button_text": "",
+            "link": "https:\/\/www.insideoutshop.de\/collections\/vendors?q=The+Flower+Kings&sort_by=created-descending"
+          }
+        },
         "2d4cd6df-bb52-4a2e-a3b8-008d13571913": {
           "type": "image",
           "settings": {
@@ -65,23 +99,6 @@
             "link": "https:\/\/www.insideoutshop.de\/collections\/vendors?q=Leprous&sort_by=created-descending"
           }
         },
-        "slide-2": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/TheFlowerKings_ParadoxHotel_0223_2160-720.jpg",
-            "mobile_image": "shopify:\/\/shop_images\/TheFlowerKings_ParadoxHotel_0223_750-1100.jpg",
-            "show_overlay": true,
-            "overlay_opacity": 0,
-            "text_color": "#ffffff",
-            "title": "",
-            "content": "",
-            "content_position": "middle_center",
-            "button_background": "#ffffff",
-            "button_text_color": "#000000",
-            "button_text": "",
-            "link": "https:\/\/www.insideoutshop.de\/collections\/vendors?q=The+Flower+Kings&sort_by=created-descending"
-          }
-        },
         "8b2c4303-6777-4245-b6ed-8876ca20fba8": {
           "type": "image",
           "settings": {
@@ -98,32 +115,15 @@
             "button_text": "",
             "link": "https:\/\/www.insideoutshop.de\/collections\/vendors?q=Transatlantic&sort_by=created-descending"
           }
-        },
-        "601d4deb-0dca-409e-a918-d9d0ba765ec4": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/EinarSolberg_16_0223_2160-720.jpg",
-            "mobile_image": "shopify:\/\/shop_images\/EinarSolberg_16_0223_750-1100.jpg",
-            "show_overlay": false,
-            "overlay_opacity": 0,
-            "text_color": "#ffffff",
-            "title": "",
-            "content": "",
-            "content_position": "middle_center",
-            "button_background": "#ffffff",
-            "button_text_color": "#000000",
-            "button_text": "",
-            "link": "https:\/\/www.insideoutshop.de\/collections\/vendors?q=Einar+Solberg&sort_by=created-descending"
-          }
         }
       },
       "block_order": [
+        "601d4deb-0dca-409e-a918-d9d0ba765ec4",
+        "slide-2",
         "2d4cd6df-bb52-4a2e-a3b8-008d13571913",
         "851ca830-e1e2-4566-96bc-028a6ec66f7e",
         "cbfc1a47-a590-49a8-9af0-2f603a75e33e",
-        "slide-2",
-        "8b2c4303-6777-4245-b6ed-8876ca20fba8",
-        "601d4deb-0dca-409e-a918-d9d0ba765ec4"
+        "8b2c4303-6777-4245-b6ed-8876ca20fba8"
       ],
       "settings": {
         "edge_to_edge": false,

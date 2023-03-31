@@ -14,6 +14,23 @@
     "slideshow": {
       "type": "slideshow",
       "blocks": {
+        "c2231c28-8335-4240-b0f9-33f0761427ce": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/SteveHackett_GuitarNoir-Darktown_0323_2160-720.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/SteveHackett_GuitarNoir-Darktown_0323_750-1100.jpg",
+            "show_overlay": false,
+            "overlay_opacity": 30,
+            "text_color": "#ffffff",
+            "title": "",
+            "content": "",
+            "content_position": "middle_center",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "button_text": "",
+            "link": "https:\/\/www.insideoutshop.de\/collections\/vendors?q=Steve+Hackett&sort_by=created-descending"
+          }
+        },
         "9964150c-18c1-4884-bd26-2613b372f5b7": {
           "type": "image",
           "settings": {
@@ -149,26 +166,10 @@
             "button_text": "",
             "link": "https:\/\/www.insideoutshop.de\/collections\/vendors?q=Haken&sort_by=created-descending"
           }
-        },
-        "c2231c28-8335-4240-b0f9-33f0761427ce": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/SteveHackett_GuitarNoir-Darktown_0323_2160-720.jpg",
-            "mobile_image": "shopify:\/\/shop_images\/SteveHackett_GuitarNoir-Darktown_0323_750-1100.jpg",
-            "show_overlay": false,
-            "overlay_opacity": 30,
-            "text_color": "#ffffff",
-            "title": "",
-            "content": "",
-            "content_position": "middle_center",
-            "button_background": "#ffffff",
-            "button_text_color": "#000000",
-            "button_text": "",
-            "link": "https:\/\/www.insideoutshop.de\/collections\/vendors?q=Steve+Hackett&sort_by=created-descending"
-          }
         }
       },
       "block_order": [
+        "c2231c28-8335-4240-b0f9-33f0761427ce",
         "9964150c-18c1-4884-bd26-2613b372f5b7",
         "8b2c4303-6777-4245-b6ed-8876ca20fba8",
         "601d4deb-0dca-409e-a918-d9d0ba765ec4",
@@ -176,8 +177,7 @@
         "b65dad66-9876-4ff9-ba5b-0d4024be395e",
         "2d4cd6df-bb52-4a2e-a3b8-008d13571913",
         "cbfc1a47-a590-49a8-9af0-2f603a75e33e",
-        "851ca830-e1e2-4566-96bc-028a6ec66f7e",
-        "c2231c28-8335-4240-b0f9-33f0761427ce"
+        "851ca830-e1e2-4566-96bc-028a6ec66f7e"
       ],
       "settings": {
         "edge_to_edge": false,

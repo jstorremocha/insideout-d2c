@@ -239,7 +239,6 @@
           "type": "collection",
           "settings": {
             "collection": "hans-zimmer-live",
-            "image": "shopify:\/\/shop_images\/Gatefold_open_center_2709.jpg",
             "link": ""
           }
         },
@@ -249,11 +248,19 @@
             "collection": "two-steps-from-hell",
             "link": ""
           }
+        },
+        "8ae60b41-9437-44b0-8dfb-ae8e8a380530": {
+          "type": "collection",
+          "settings": {
+            "collection": "anime",
+            "link": ""
+          }
         }
       },
       "block_order": [
         "collection-2",
-        "62dc3c3c-ebcd-48f0-b42f-7605fece1f5a"
+        "62dc3c3c-ebcd-48f0-b42f-7605fece1f5a",
+        "8ae60b41-9437-44b0-8dfb-ae8e8a380530"
       ],
       "settings": {
         "title": "Specials",

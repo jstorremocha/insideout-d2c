@@ -14,6 +14,23 @@
     "slideshow": {
       "type": "slideshow",
       "blocks": {
+        "2d4cd6df-bb52-4a2e-a3b8-008d13571913": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/NMB_AnEveningOfInnocence_0523_2160-720.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/NMB_AnEveningOfInnocence_0523_750-1100.jpg",
+            "show_overlay": false,
+            "overlay_opacity": 30,
+            "text_color": "#ffffff",
+            "title": "",
+            "content": "",
+            "content_position": "middle_center",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "button_text": "",
+            "link": "https:\/\/www.insideoutshop.de\/collections\/vendors?q=The+Neal+Morse+Band&sort_by=created-descending"
+          }
+        },
         "a68241b7-0667-4f27-abaa-c64f193dc924": {
           "type": "image",
           "settings": {
@@ -151,23 +168,6 @@
             "link": "https:\/\/www.insideoutshop.de\/products\/steve-rothery-the-ghosts-of-pripyat-re-issue-2023-ltd-gatefold-transp-light-blue-2lp"
           }
         },
-        "2d4cd6df-bb52-4a2e-a3b8-008d13571913": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/JethroTull_RoekFloete_0123_2160-720.jpg",
-            "mobile_image": "shopify:\/\/shop_images\/JethroTull_RoekFloete_0123_750-1100.jpg",
-            "show_overlay": false,
-            "overlay_opacity": 30,
-            "text_color": "#ffffff",
-            "title": "",
-            "content": "",
-            "content_position": "middle_center",
-            "button_background": "#ffffff",
-            "button_text_color": "#000000",
-            "button_text": "",
-            "link": "https:\/\/www.insideoutshop.de\/collections\/vendors?q=Jethro+Tull&sort_by=created-descending"
-          }
-        },
         "cbfc1a47-a590-49a8-9af0-2f603a75e33e": {
           "type": "image",
           "settings": {
@@ -187,6 +187,7 @@
         }
       },
       "block_order": [
+        "2d4cd6df-bb52-4a2e-a3b8-008d13571913",
         "a68241b7-0667-4f27-abaa-c64f193dc924",
         "851ca830-e1e2-4566-96bc-028a6ec66f7e",
         "c2231c28-8335-4240-b0f9-33f0761427ce",
@@ -195,7 +196,6 @@
         "601d4deb-0dca-409e-a918-d9d0ba765ec4",
         "slide-2",
         "b65dad66-9876-4ff9-ba5b-0d4024be395e",
-        "2d4cd6df-bb52-4a2e-a3b8-008d13571913",
         "cbfc1a47-a590-49a8-9af0-2f603a75e33e"
       ],
       "settings": {

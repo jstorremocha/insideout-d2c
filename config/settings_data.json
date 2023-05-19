@@ -157,7 +157,7 @@
             "type": "text",
             "settings": {
               "title": "",
-              "content": "<p><a href=\"\/pages\/about\" title=\"About\">About<\/a><\/p>"
+              "content": "<p><a href=\"\/pages\/faqs\" title=\"FAQs\">FAQs<\/a><\/p>"
             }
           },
           "footer-1": {

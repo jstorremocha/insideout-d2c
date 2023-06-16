@@ -152,10 +152,8 @@
         },
         "b65dad66-9876-4ff9-ba5b-0d4024be395e": {
           "type": "image",
-          "disabled": true,
           "settings": {
-            "image": "shopify:\/\/shop_images\/SteveRothery_The-GhostsOfPripyat_0223_2160-720.jpg",
-            "mobile_image": "shopify:\/\/shop_images\/SteveRothery_The-GhostsOfPripyat_0223_750-1100.jpg",
+            "image": "shopify:\/\/shop_images\/Banner.jpg",
             "show_overlay": false,
             "overlay_opacity": 30,
             "text_color": "#ffffff",
@@ -165,7 +163,7 @@
             "button_background": "#ffffff",
             "button_text_color": "#000000",
             "button_text": "",
-            "link": "https:\/\/www.insideoutshop.de\/products\/steve-rothery-the-ghosts-of-pripyat-re-issue-2023-ltd-gatefold-transp-light-blue-2lp"
+            "link": "https:\/\/www.insideoutshop.de\/collections\/five-from-the-hive-cd-bundles"
           }
         },
         "cbfc1a47-a590-49a8-9af0-2f603a75e33e": {

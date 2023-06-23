@@ -14,6 +14,23 @@
     "slideshow": {
       "type": "slideshow",
       "blocks": {
+        "cbfc1a47-a590-49a8-9af0-2f603a75e33e": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/SherinianPhilipps_Live_0623_2160-720.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/SherinianPhilipps_Live_0623_750-1100.jpg",
+            "show_overlay": true,
+            "overlay_opacity": 0,
+            "text_color": "#ffbd00",
+            "title": "",
+            "content": "",
+            "content_position": "middle_center",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "button_text": "",
+            "link": "https:\/\/www.insideoutshop.de\/collections\/vendors?q=Derek+Sherinian&sort_by=created-descending"
+          }
+        },
         "8b2c4303-6777-4245-b6ed-8876ca20fba8": {
           "type": "image",
           "settings": {
@@ -168,27 +185,10 @@
             "button_text": "",
             "link": "https:\/\/www.insideoutshop.de\/collections\/five-from-the-hive-cd-bundles"
           }
-        },
-        "cbfc1a47-a590-49a8-9af0-2f603a75e33e": {
-          "type": "image",
-          "disabled": true,
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Leprous_Live2022_1222_2160-720.jpg",
-            "mobile_image": "shopify:\/\/shop_images\/Leprous_Live2022_1222_750-1100.jpg",
-            "show_overlay": true,
-            "overlay_opacity": 0,
-            "text_color": "#ffbd00",
-            "title": "",
-            "content": "",
-            "content_position": "middle_center",
-            "button_background": "#ffffff",
-            "button_text_color": "#000000",
-            "button_text": "",
-            "link": "https:\/\/www.insideoutshop.de\/collections\/vendors?q=Leprous&sort_by=created-descending"
-          }
         }
       },
       "block_order": [
+        "cbfc1a47-a590-49a8-9af0-2f603a75e33e",
         "8b2c4303-6777-4245-b6ed-8876ca20fba8",
         "9964150c-18c1-4884-bd26-2613b372f5b7",
         "2d4cd6df-bb52-4a2e-a3b8-008d13571913",
@@ -197,8 +197,7 @@
         "c2231c28-8335-4240-b0f9-33f0761427ce",
         "601d4deb-0dca-409e-a918-d9d0ba765ec4",
         "slide-2",
-        "b65dad66-9876-4ff9-ba5b-0d4024be395e",
-        "cbfc1a47-a590-49a8-9af0-2f603a75e33e"
+        "b65dad66-9876-4ff9-ba5b-0d4024be395e"
       ],
       "settings": {
         "edge_to_edge": false,

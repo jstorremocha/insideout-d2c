@@ -14,6 +14,23 @@
     "slideshow": {
       "type": "slideshow",
       "blocks": {
+        "cbfc1a47-a590-49a8-9af0-2f603a75e33e": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/DVirgilioMorseJennings_Sophomore_1023_2160-720.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/DVirgilioMorseJennings_Sophomore_1023_750-1100.jpg",
+            "show_overlay": false,
+            "overlay_opacity": 0,
+            "text_color": "#ffbd00",
+            "title": "",
+            "content": "",
+            "content_position": "middle_center",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "button_text": "",
+            "link": "https:\/\/www.insideoutshop.de\/collections\/vendors?q=D%27Virgilio%2C+Morse+%26+Jennings&sort_by=created-descending"
+          }
+        },
         "00e8155c-2dc1-447c-9093-f6a19e1a1093": {
           "type": "image",
           "settings": {
@@ -150,23 +167,6 @@
             "link": "https:\/\/www.insideoutshop.de\/collections\/vendors?q=65daysofstatic&sort_by=created-descending"
           }
         },
-        "cbfc1a47-a590-49a8-9af0-2f603a75e33e": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/SherinianPhilipps_Live_0623_2160-720.jpg",
-            "mobile_image": "shopify:\/\/shop_images\/SherinianPhilipps_Live_0623_750-1100.jpg",
-            "show_overlay": true,
-            "overlay_opacity": 0,
-            "text_color": "#ffbd00",
-            "title": "",
-            "content": "",
-            "content_position": "middle_center",
-            "button_background": "#ffffff",
-            "button_text_color": "#000000",
-            "button_text": "",
-            "link": "https:\/\/www.insideoutshop.de\/collections\/vendors?q=Derek+Sherinian&sort_by=created-descending"
-          }
-        },
         "b65dad66-9876-4ff9-ba5b-0d4024be395e": {
           "type": "image",
           "settings": {
@@ -185,6 +185,7 @@
         }
       },
       "block_order": [
+        "cbfc1a47-a590-49a8-9af0-2f603a75e33e",
         "00e8155c-2dc1-447c-9093-f6a19e1a1093",
         "2d4cd6df-bb52-4a2e-a3b8-008d13571913",
         "8b2c4303-6777-4245-b6ed-8876ca20fba8",
@@ -193,7 +194,6 @@
         "851ca830-e1e2-4566-96bc-028a6ec66f7e",
         "slide-2",
         "a68241b7-0667-4f27-abaa-c64f193dc924",
-        "cbfc1a47-a590-49a8-9af0-2f603a75e33e",
         "b65dad66-9876-4ff9-ba5b-0d4024be395e"
       ],
       "settings": {

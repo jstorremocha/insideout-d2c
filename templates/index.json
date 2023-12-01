@@ -16,7 +16,6 @@
       "blocks": {
         "851ca830-e1e2-4566-96bc-028a6ec66f7e": {
           "type": "image",
-          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/SteveHackett_Circus_1123_2160-720.jpg",
             "mobile_image": "shopify:\/\/shop_images\/SteveHackett_Circus_1123_750-1100.jpg",

@@ -226,8 +226,8 @@
       "type": "featured-collection",
       "settings": {
         "collection": "midprice-blowout",
-        "title": "Featured collection",
-        "products_count": 16,
+        "title": "Now On Midprice",
+        "products_count": 12,
         "layout": "vertical",
         "stack_products": true,
         "show_quick_buy": true,

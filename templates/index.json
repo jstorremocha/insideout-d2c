@@ -222,12 +222,25 @@
         "link_url": ""
       }
     },
+    "e9b924ee-c0b2-487a-8027-bb5354c3b608": {
+      "type": "featured-collection",
+      "settings": {
+        "collection": "midprice-blowout",
+        "title": "Featured collection",
+        "products_count": 16,
+        "layout": "vertical",
+        "stack_products": true,
+        "show_quick_buy": true,
+        "link_title": "View all",
+        "link_url": ""
+      }
+    },
     "featured-products": {
       "type": "featured-collection",
       "settings": {
         "collection": "new-releases",
         "title": "New Releases",
-        "products_count": 18,
+        "products_count": 12,
         "layout": "horizontal",
         "stack_products": true,
         "show_quick_buy": true,
@@ -303,6 +316,7 @@
     "d455e7fc-a136-4680-9463-5503d5126216",
     "slideshow",
     "featured-collection",
+    "e9b924ee-c0b2-487a-8027-bb5354c3b608",
     "featured-products",
     "collection-list",
     "newsletter"

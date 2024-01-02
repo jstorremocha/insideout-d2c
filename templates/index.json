@@ -2,6 +2,7 @@
   "sections": {
     "d455e7fc-a136-4680-9463-5503d5126216": {
       "type": "rich-text",
+      "disabled": true,
       "settings": {
         "text_width": "regular",
         "title": "HAPPY HOLIDAYS!",
